@@ -20,7 +20,7 @@ An integrated barbershop management system built for an internship project and f
 
 *Actual Web application UI from main, captured with synthetic intercepted API responses; not live operational data or proof of payment.*
 
-### Staff Mobile · Minimal V3
+### Staff Mobile
 
 | Pesanan | Walk-in Reguler | Riwayat |
 | --- | --- | --- |
