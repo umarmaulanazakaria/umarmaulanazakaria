@@ -12,21 +12,33 @@ I'm developing my skills through hands-on projects that connect frontend, backen
 
 An integrated barbershop management system built for an internship project and fullstack portfolio: **Admin Web**, **React Native Staff Minimal V3**, and **Customer Web mobile-first**.
 
-[![Current BARBER BARBAR Admin dashboard](https://raw.githubusercontent.com/umarmaulanazakaria/barberbarbar/main/docs/showcase/dashboard.jpg)](https://github.com/umarmaulanazakaria/barberbarbar/tree/main)
+### Admin Web
 
-*Actual application UI captured from the current main source on 18 October 2026, with synthetic intercepted API responses. These screenshots are not evidence of real payments or live customer data.*
+| Dashboard | Pesanan | Membership |
+| --- | --- | --- |
+| <a href="https://github.com/umarmaulanazakaria/barberbarbar/blob/main/docs/showcase/dashboard.jpg"><img src="https://raw.githubusercontent.com/umarmaulanazakaria/barberbarbar/main/docs/showcase/dashboard.jpg" alt="Actual Admin Web dashboard with synthetic API data" width="280" /></a> | <a href="https://github.com/umarmaulanazakaria/barberbarbar/blob/main/docs/showcase/pesanan.jpg"><img src="https://raw.githubusercontent.com/umarmaulanazakaria/barberbarbar/main/docs/showcase/pesanan.jpg" alt="Actual Admin Web pesanan with synthetic API data" width="280" /></a> | <a href="https://github.com/umarmaulanazakaria/barberbarbar/blob/main/docs/showcase/membership.jpg"><img src="https://raw.githubusercontent.com/umarmaulanazakaria/barberbarbar/main/docs/showcase/membership.jpg" alt="Actual Admin Web membership with synthetic API data" width="280" /></a> |
 
-### A look inside
+*Actual Web application UI from main, captured with synthetic intercepted API responses; not live operational data or proof of payment.*
 
-| Admin operations | Customer Web · desktop |
-| --- | --- |
-| [![Membership management with synthetic data](https://raw.githubusercontent.com/umarmaulanazakaria/barberbarbar/main/docs/showcase/membership.jpg)](https://github.com/umarmaulanazakaria/barberbarbar/tree/main) | [![Customer Web desktop homepage](https://raw.githubusercontent.com/umarmaulanazakaria/barberbarbar-customer/main/docs/showcase/hero.jpg)](https://github.com/umarmaulanazakaria/barberbarbar-customer/tree/main) |
+### Staff Mobile · Minimal V3
 
-| Customer Web · mobile-first booking | Customer Web · online payment screen |
-| --- | --- |
-| <a href="https://github.com/umarmaulanazakaria/barberbarbar-customer/tree/main"><img src="https://raw.githubusercontent.com/umarmaulanazakaria/barberbarbar-customer/main/docs/showcase/pilih-layanan.jpg" alt="Real Customer Web service selection at mobile viewport" width="300" /></a> | <a href="https://github.com/umarmaulanazakaria/barberbarbar-customer/tree/main"><img src="https://raw.githubusercontent.com/umarmaulanazakaria/barberbarbar-customer/main/docs/showcase/pembayaran.jpg" alt="Real Customer Web DP screen with synthetic data, no provider transaction" width="300" /></a> |
+| Pesanan | Walk-in Reguler | Riwayat |
+| --- | --- | --- |
+| <a href="https://github.com/umarmaulanazakaria/barberbarbar-mobile/blob/main/docs/showcase/staff/pesanan.jpg"><img src="https://raw.githubusercontent.com/umarmaulanazakaria/barberbarbar-mobile/main/docs/showcase/staff/pesanan.jpg" alt="Edited Staff presentation visual: pesanan" width="210" /></a> | <a href="https://github.com/umarmaulanazakaria/barberbarbar-mobile/blob/main/docs/showcase/staff/walkin-reguler.jpg"><img src="https://raw.githubusercontent.com/umarmaulanazakaria/barberbarbar-mobile/main/docs/showcase/staff/walkin-reguler.jpg" alt="Edited Staff presentation visual: walkin-reguler" width="210" /></a> | <a href="https://github.com/umarmaulanazakaria/barberbarbar-mobile/blob/main/docs/showcase/staff/riwayat.jpg"><img src="https://raw.githubusercontent.com/umarmaulanazakaria/barberbarbar-mobile/main/docs/showcase/staff/riwayat.jpg" alt="Edited Staff presentation visual: riwayat" width="210" /></a> |
 
-**Staff native gallery is pending:** Beranda, Pesanan, Walk-in, Riwayat and Profil require capture from an actual Android device/emulator. No native device or AVD was available; Web images are not presented as Android evidence. [Capture checklist](https://github.com/umarmaulanazakaria/barberbarbar-mobile/blob/main/docs/screenshots/README.md).
+*Presentation visuals based on Staff screenshots supplied by the project owner. Identities and example data were edited; some content and prices differ from the live catalogue. These are not raw native captures, Android test evidence or verified provider transactions.*
+
+[Full Staff gallery: Member walk-in, completed history and empty state](https://github.com/umarmaulanazakaria/barberbarbar-mobile/tree/main#galeri-staff-mobile-minimal-v3). **Beranda is not available. Profil is withheld because the source email has not been verified as fictional; a safe example.com demo version is needed.** [Image provenance](https://github.com/umarmaulanazakaria/barberbarbar-mobile/blob/main/docs/showcase/README.md).
+
+### Customer Web · mobile-first
+
+| Catalogue | Booking | Payment | Private tracking |
+| --- | --- | --- | --- |
+| <a href="https://github.com/umarmaulanazakaria/barberbarbar-customer/blob/main/docs/showcase/katalog.jpg"><img src="https://raw.githubusercontent.com/umarmaulanazakaria/barberbarbar-customer/main/docs/showcase/katalog.jpg" alt="Actual Customer Web katalog with synthetic API data" width="190" /></a> | <a href="https://github.com/umarmaulanazakaria/barberbarbar-customer/blob/main/docs/showcase/booking.jpg"><img src="https://raw.githubusercontent.com/umarmaulanazakaria/barberbarbar-customer/main/docs/showcase/booking.jpg" alt="Actual Customer Web booking with synthetic API data" width="190" /></a> | <a href="https://github.com/umarmaulanazakaria/barberbarbar-customer/blob/main/docs/showcase/pembayaran.jpg"><img src="https://raw.githubusercontent.com/umarmaulanazakaria/barberbarbar-customer/main/docs/showcase/pembayaran.jpg" alt="Actual Customer Web pembayaran with synthetic API data" width="190" /></a> | <a href="https://github.com/umarmaulanazakaria/barberbarbar-customer/blob/main/docs/showcase/tracking.jpg"><img src="https://raw.githubusercontent.com/umarmaulanazakaria/barberbarbar-customer/main/docs/showcase/tracking.jpg" alt="Actual Customer Web tracking with synthetic API data" width="190" /></a> |
+
+*Actual browser UI with synthetic intercepted API responses. The tracking form is empty to keep access codes private; no provider transaction was created for these images.*
+
+[Admin gallery](https://github.com/umarmaulanazakaria/barberbarbar/tree/main) · [Staff gallery](https://github.com/umarmaulanazakaria/barberbarbar-mobile/tree/main) · [Customer gallery](https://github.com/umarmaulanazakaria/barberbarbar-customer/tree/main)
 
 ### Three applications, one backend
 
@@ -45,7 +57,7 @@ An integrated barbershop management system built for an internship project and f
 - Midtrans Sandbox integration with server-side signature/status verification and idempotent payment handling; callbacks alone do not mark a booking paid.
 - Socket.IO signals trigger REST refetches; the backend remains authoritative for price and status.
 
-**Evidence and limits:** main finalization passed builds/TypeScript, 14 backend fixture/mock suites, the Customer UI suite across eight viewports, and Staff Android/Hermes export. Screenshot capture used synthetic API responses without touching a database or payment provider. Native-device, printer and fresh live-provider acceptance are not claimed here; dependency advisories remain documented. [Current audit](https://github.com/umarmaulanazakaria/barberbarbar/blob/main/docs/audit/AUDIT-SISTEM-TERKINI.md).
+**Evidence and limits:** main finalization passed builds/TypeScript, 14 backend fixture/mock suites, the Customer UI suite across eight viewports, and Staff Android/Hermes export. Admin/Customer capture used synthetic API responses without touching a database or payment provider; Staff visuals are supplied presentation edits, not new device captures. Native-device, printer and fresh live-provider acceptance are not claimed here; dependency advisories remain documented. [Current audit](https://github.com/umarmaulanazakaria/barberbarbar/blob/main/docs/audit/AUDIT-SISTEM-TERKINI.md).
 
 **Educational portfolio and local/Sandbox demo — not a Production release claim.**
 
